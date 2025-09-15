@@ -23,5 +23,48 @@ Key columns include:
 
 ---
 
+##🧠 Methodology
+
+1. Data preprocessing & feature scaling
+
+
+2. Dimensionality reduction (PCA)
+
+
+3. Clustering with DBSCAN
+
+
+4. Evaluation using Silhouette Score
+
+
+5. Visualization of customer segments
+
+
+
+🚀 How to Run
+
+1. Clone the repo:
+   git clone https://github.com/Ketoenol/Bank-Customer-Churn-Clustering.git
+cd Bank-Customer-Churn-Clustering
+
+2. Install Dependencies:
+   pip install -r requirements.txt
+
+3. Open the Notebook:
+   jupyter notebook Bank_Churn_Clustering.ipynb
+
+4. Follow the notebook to explore clustering results.
+
+
+##📈 Outcome
+
+Identified distinct customer segments
+
+Highlighted high-risk churn groups
+
+Insights to improve customer retention strategies
+
+
+   
 
 
