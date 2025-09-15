@@ -23,8 +23,5 @@ Key columns include:
 
 ---
 
-## 🔧 Installation & Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/bank-customer-churn-clustering.git
-   cd bank-customer-churn-clustering
+
+
